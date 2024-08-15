@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "88128297224",
+    "firebase_url": "https://scribesupport-ccb58-default-rtdb.firebaseio.com",
+    "project_id": "scribesupport-ccb58",
+    "storage_bucket": "scribesupport-ccb58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88128297224:android:bd86fa1fffb39e547334bd",
+        "android_client_info": {
+          "package_name": "com.example.scribesupport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJCSuzNWiP6PVB50tGmNxSdrC11LAi2uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

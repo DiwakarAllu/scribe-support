@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="lavender">#EBF400</color>
+    <color name="red">#c70000</color>
+    <color name="green">#00ff00</color>
+    <color name="purple_200">#296D98</color>
+    <color name="purple_500">#296D98</color>
+    <color name="purple_700">#296D98</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#C3BCBC</color>
+
+    <color name="black_shade_1">#0e2433</color>
+    <color name="black_shade_2">#1C4966</color>
+
+    <color name="black_shade_3">#22252D</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="false">#FF5722</color>
+    <color name="mtrl_textinput_default_box_stroke_color2" tools:override="true">#296D98</color>
+
+
+    <color name="light_blue_shade_1">#296D98</color>
+    <color name="gray">#424242</color>
+    <color name="yellow">#ffa500</color>
+    <color name="dark_blue_shade">#0D2162</color>
+    <color name="dark_blue_shade_2">#17388E</color>
+    <color name="light_blue_shade">#12B2E6</color>
+
+<!-- one -->
+    <color name="o65">#FEFFD2</color>
+    <color name="o20">#FFEEA9</color>
+    <color name="o10">#FFBF78</color>
+    <color name="o5">#FF7D29</color>
+<!--two -->
+    <color name="t65">#640D6B</color>
+    <color name="t20">#B51B75</color>
+    <color name="t10">#E65C19</color>
+    <color name="t5">#F8D082</color>
+
+</resources>
